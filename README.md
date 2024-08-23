@@ -64,23 +64,25 @@ Response:
 
 201 Created:json
 
+
 [
 
-{
-
-  "_id": "60c72b2f9b1d4c1f88e1b1d2",
+  {
   
-  "philosopher": "Socrates",
+    "_id": "60c72b2f9b1d4c1f88e1b1d2",
+    
+    "philosopher": "Socrates",
+    
+    "quote": "The unexamined life is not worth living.",
+    
+    "category": "Existentialism",
+    
+    "created_at": "2024-08-23T09:27:54.511Z"
   
-  "quote": "The unexamined life is not worth living.",
-  
-  "category": "Existentialism",
-  
-  "created_at": "2024-08-23T09:27:54.511Z"
-
-}
+  }
 
 ]
+
 
 Update a Quote
 
@@ -105,23 +107,25 @@ Response: 200
 
 OK: json
 
+
 [
 
-{
-
-  "_id": "60c72b2f9b1d4c1f88e1b1d2",
+  {
   
-  "philosopher": "Socrates",
+    "_id": "60c72b2f9b1d4c1f88e1b1d2",
+    
+    "philosopher": "Socrates",
+    
+    "quote": "To find yourself, think for yourself.",
+    
+    "category": "Existentialism",
+    
+    "created_at": "2024-08-23T09:27:54.511Z"
   
-  "quote": "To find yourself, think for yourself.",
-  
-  "category": "Existentialism",
-  
-  "created_at": "2024-08-23T09:27:54.511Z"
-
-}
+  }
 
 ]
+
 
 
 Delete a Quote
