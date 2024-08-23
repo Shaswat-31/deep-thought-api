@@ -62,6 +62,7 @@ OK: json
   "category": "Existentialism",
   "created_at": "2024-08-23T09:27:54.511Z"
 }
+
 Delete a Quote
 
 URL: /quotes/:id
