@@ -1,6 +1,7 @@
 Philosophical Quotes API
 Base URL: /api
 Endpoints
+
 Get All Quotes
 
 URL: /quotes
@@ -18,6 +19,7 @@ Response:
     "created_at": "2024-08-23T09:27:54.511Z"
   }
 ]
+
 Add a New Quote
 
 URL: /quotes
