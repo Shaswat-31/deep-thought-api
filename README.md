@@ -64,6 +64,7 @@ Response:
 
 201 Created:json
 
+[
 
 {
 
@@ -79,6 +80,7 @@ Response:
 
 }
 
+]
 
 Update a Quote
 
@@ -103,6 +105,8 @@ Response: 200
 
 OK: json
 
+[
+
 {
 
   "_id": "60c72b2f9b1d4c1f88e1b1d2",
@@ -116,6 +120,8 @@ OK: json
   "created_at": "2024-08-23T09:27:54.511Z"
 
 }
+
+]
 
 
 Delete a Quote
